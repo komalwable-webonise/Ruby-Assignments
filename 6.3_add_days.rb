@@ -1,4 +1,3 @@
-
 require "date"
 def date_format()
 	current_time = DateTime.now
